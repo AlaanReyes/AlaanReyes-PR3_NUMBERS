@@ -21,7 +21,8 @@ print(f'Tipo de y: {type(y)}')  # Debería imprimir <class 'float'>
 
 print(f'Tipo de z: {type(z)}')  # Debería imprimir <class 'complex'>
 
-![image](https://github.com/user-attachments/assets/06b87cd5-9182-4530-affb-3f4fd787e6c6)
+![image](https://github.com/user-attachments/assets/4e4d2011-034e-4da4-89b0-b6f3f654ec67)
+
 
 
 
